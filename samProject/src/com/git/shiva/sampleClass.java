@@ -6,5 +6,7 @@ public class sampleClass {
 		//just to check merge
 		System.out.println("Fourth git example");
 		System.out.println("For Master branch");
+		System.out.println("Slave");
+
 	}
 }
